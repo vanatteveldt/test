@@ -2,7 +2,9 @@ import yaml
 
 class Phrases:
     positive=dict(en="Positions in favour include: ",
-                  nl="Positieve standpunten zijn bijvoorbeeld:")
+                  nl="Positieve standpunten zijn bijvoorbeeld: ")
+    examples=dict(en="#### Examples:\n ",
+                  nl="#### Voorbeelden:\n")
 
 
 def generate_md(cb, lang='en'):
@@ -19,9 +21,9 @@ def generate_md(cb, lang='en'):
             yield x(Phrases.positive) + x(d["positive"])
         if 'examples' in d:
             examples = "\n".join(f"+ {x(ex)}" for ex in d['examples'])
-            yield f"#### Examples:\n {examples}"
+            yield x(Phrases.examples) + examples
 
 i = yaml.safe_load(open("topics.yml"))
 for lang in ['en', 'nl']:
-    md = "\n\n".join(generate_md(i))
+    md = "\n\n".join(generate_md(i, lang=lang))
     open(f"topics-{lang}.md", "w").write(md)

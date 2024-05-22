@@ -1,17 +1,17 @@
-## Defense: Defense, investments in the army, navy, air force or military equipment.
+## Defense: Defensie, investeringen in het leger, de marine, luchtmacht, of uitrusting
 
-Positions in favour include: Strong defense/NATO; investment in Defense, a stronger of more effective army, and achieving the NATO goal of 2% for the national gross product for Defense.
+Positieve standpunten zijn bijvoorbeeld: Sterk leger / sterke NAVO; investeringen in defensie, een sterker of effectiever leger; het bereiken van de NAVO doelstelling van 2% van het BNP voor defensie.
 
-#### Examples:
- + VVD in favor of defence expenditures of 2% of GDP
+#### Voorbeelden:
++ VVD voor verhogen van defensie-uitgaven naar 2% van BNP
 
 ## Agriculture: Farming, farmers, agricultural output, cattle, nitrogen as a result of farming activity
 
-Positions in favour include: Maintaining (intensive) argigulture
+Positieve standpunten zijn bijvoorbeeld: Maintaining (intensive) argigulture
 
-#### Examples:
- + BBB: the D66 proposal for nitrogen reduction is a disaster for our farmers
+#### Voorbeelden:
++ BBB: the D66 proposal for nitrogen reduction is a disaster for our farmers
 
 ## Bla: -
 
-Positions in favour include: ?
+Positieve standpunten zijn bijvoorbeeld: ?
