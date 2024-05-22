@@ -11,7 +11,3 @@ Positions in favour include: Maintaining (intensive) argigulture
 
 #### Examples:
  + BBB: the D66 proposal for nitrogen reduction is a disaster for our farmers
-
-## Bla: -
-
-Positions in favour include: ?

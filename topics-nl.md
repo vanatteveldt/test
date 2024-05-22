@@ -11,7 +11,3 @@ Positieve standpunten zijn bijvoorbeeld: Maintaining (intensive) argigulture
 
 #### Voorbeelden:
 + BBB: the D66 proposal for nitrogen reduction is a disaster for our farmers
-
-## Bla: -
-
-Positieve standpunten zijn bijvoorbeeld: ?
