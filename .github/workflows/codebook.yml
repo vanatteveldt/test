@@ -14,12 +14,12 @@ jobs:
           python-version: 3.8 #install the python needed
       - name: Install dependencies
         run: |
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+           pip install PyYAML
       - name: execute py script
         run: |
           python main.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "crongenerated"
+          git commit -m "[Action: codebook.yml] Generate codebook from topics.yml"
           git push
