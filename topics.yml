@@ -11,7 +11,9 @@ Defense:
 
 Agriculture:
   description: Farming, farmers, agricultural output, cattle, nitrogen as a result of farming activity
-  positive: Maintaining (intensive) argigulture
+  positive: 
+    en: Maintaining (intensive) argigulture
+    nl: Instand houden (instensieve) landbouw
   negative:
     en: nitrogen reduction, decreasing the amount of livestock
   examples:
