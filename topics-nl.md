@@ -7,7 +7,7 @@ Positieve standpunten zijn bijvoorbeeld: Sterk leger / sterke NAVO; investeringe
 
 ## Agriculture: Farming, farmers, agricultural output, cattle, nitrogen as a result of farming activity
 
-Positieve standpunten zijn bijvoorbeeld: Maintaining (intensive) argigulture
+Positieve standpunten zijn bijvoorbeeld: Instand houden (instensieve) landbouw
 
 #### Voorbeelden:
 + BBB: the D66 proposal for nitrogen reduction is a disaster for our farmers
